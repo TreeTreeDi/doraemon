@@ -58,7 +58,10 @@ CREATE TABLE `article_subscription` (
   `status` tinyint DEFAULT 1 COMMENT '订阅状态 1-开启 2-关闭',
   `is_delete` int DEFAULT 0 COMMENT '是否删除 1-已删除 0-未删除',
   `created_at` datetime DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
-  `updated_at` datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '修改时间'
+  `updated_at` datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '修改时间',
+  `messageTitle` varchar(64) NOT NULL COMMENT '消息标题',
+  `message` varchar(2000) NOT NULL COMMENT '消息内容',
+  `isAtAll` tinyint DEFAULT 0 COMMENT '是否@所有人 1-是 2-否'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin COMMENT = '文章订阅表';
 
 -- ----------------------------
