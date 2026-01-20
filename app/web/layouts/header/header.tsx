@@ -10,6 +10,7 @@ import {
     SettingOutlined,
     SyncOutlined,
     TagOutlined,
+    UngroupOutlined,
 } from '@ant-design/icons';
 import { Layout, Menu } from 'antd';
 import { bindActionCreators } from 'redux';
@@ -35,6 +36,18 @@ const navMenuList: any = [
         path: '/page/proxy-server',
         icon: <CloudOutlined />,
         routers: ['proxy-server'],
+    },
+    {
+        name: 'MCP',
+        path: '/page/mcp-server-market',
+        icon: <UngroupOutlined />,
+        routers: [
+            'mcp-server-market',
+            'mcp-server-registry',
+            'mcp-server-management',
+            'mcp-server-detail',
+            'mcp-server-inspector',
+        ],
     },
     {
         name: '主机管理',

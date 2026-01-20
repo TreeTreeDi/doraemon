@@ -15,6 +15,11 @@ import HostManagement from '@/pages/hostManagement';
 import InnerUrlNavigation from '@/pages/innerUrlNavigation';
 // 邮件签名生成
 import MailSign from '@/pages/mailSign';
+import McpServerDetail from '@/pages/mcpServer/detail';
+import McpServerInspector from '@/pages/mcpServer/inspector';
+import McpServerManagement from '@/pages/mcpServer/management';
+import McpServerMarket from '@/pages/mcpServer/mcpMarket';
+import McpServerRegistryCenter from '@/pages/mcpServer/registryCenter';
 // 代理服务
 import ProxyServer from '@/pages/proxyServer';
 // hosts列表
@@ -82,6 +87,30 @@ const routes: any = [
             {
                 path: `${urlPrefix}/tags`,
                 component: TagsManagement,
+            },
+            {
+                path: `${urlPrefix}/mcp-server-market`,
+                component: McpServerMarket,
+            },
+            {
+                path: `${urlPrefix}/mcp-server-registry/edit/:serverId`,
+                component: McpServerRegistryCenter,
+            },
+            {
+                path: `${urlPrefix}/mcp-server-registry`,
+                component: McpServerRegistryCenter,
+            },
+            {
+                path: `${urlPrefix}/mcp-server-detail/:serverId`,
+                component: McpServerDetail,
+            },
+            {
+                path: `${urlPrefix}/mcp-server-inspector`,
+                component: McpServerInspector,
+            },
+            {
+                path: `${urlPrefix}/mcp-server-management`,
+                component: McpServerManagement,
             },
             {
                 path: '*',
