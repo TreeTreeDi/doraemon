@@ -1,0 +1,25 @@
+dt-skill/src/schema/skillFingerprintContract.ts
+  s_57926930857df2::t_892cabb0af0547 2-3,6-9,11
+dt-skill/scripts/build.mjs
+  s_57926930857df2::t_892cabb0af0547 2,10-11,21-26
+dt-skill/package.json
+  s_57926930857df2::t_892cabb0af0547 3,34
+dt-skill/test-artifact/cli.artifact.test.ts
+  s_57926930857df2::t_892cabb0af0547 4,57-77,80,131,134-135,140,145-146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "36abb72d258801b1251bd0dcb0ea8a9dd38512d1",
+  "prompts": {},
+  "sessions": {
+    "s_57926930857df2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec654-8b7a-78f2-bced-f3f098e55088",
+        "model": "gpt-5.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}

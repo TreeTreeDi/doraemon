@@ -1,0 +1,32 @@
+dt-skill/src/cli/commands/skills.test.ts
+  s_57926930857df2::t_8c1f8764ac6ac8 297,319
+  s_57926930857df2::t_62123cc4182053 298-311,336-341
+  s_57926930857df2::t_f3552a38db7a9c 15-16,26-27,65-66,97-98,312-318,320-335
+  s_57926930857df2::t_309e2d17178bc5 444,452-461
+dt-skill/src/cli/commands/publish.test.ts
+  s_57926930857df2::t_62123cc4182053 100-128
+  s_57926930857df2::t_8c1f8764ac6ac8 99
+dt-skill/src/cli/commands/publish.ts
+  s_57926930857df2::t_ad3364f005c875 11,88,140
+dt-skill/src/skills.ts
+  s_57926930857df2::t_ad3364f005c875 50,67-82,225-232
+dt-skill/src/cli/commands/skills.ts
+  s_57926930857df2::t_f3552a38db7a9c 1-2,541-543,547-559,579-616
+  s_57926930857df2::t_aa875d9bce223d 544-546
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "cdd892b98bafcdf5425b5675b6ef3ae67a64370c",
+  "prompts": {},
+  "sessions": {
+    "s_57926930857df2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec654-8b7a-78f2-bced-f3f098e55088",
+        "model": "gpt-5.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}
