@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "23378e7974d57f0f54c5338bb967c2129611d53a",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
