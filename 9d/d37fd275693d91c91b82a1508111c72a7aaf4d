@@ -1,0 +1,16 @@
+app/web/pages/skills/detail/SkillSummaryModalContent.tsx
+  h_05f32768e190e9 207
+app/web/pages/skills/detail/components/SkillDetailHero.tsx
+  h_05f32768e190e9 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "9dd37fd275693d91c91b82a1508111c72a7aaf4d",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
