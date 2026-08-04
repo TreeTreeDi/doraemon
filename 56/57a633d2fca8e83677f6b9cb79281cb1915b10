@@ -1,0 +1,24 @@
+app/controller/skills.js
+  h_05f32768e190e9 36-40
+app/service/skillsRegistry.js
+  h_05f32768e190e9 233-236
+app/web/pages/skills/style.scss
+  h_05f32768e190e9 81
+dt-skill/src/cli/commands/skills.test.ts
+  h_05f32768e190e9 400-402,423-425,578-580
+dt-skill/src/cli/commands/update.ts
+  h_05f32768e190e9 214
+dt-skill/src/cli/ui.ts
+  h_05f32768e190e9 180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "5657a633d2fca8e83677f6b9cb79281cb1915b10",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
