@@ -1,0 +1,16 @@
+dt-skill/src/cli/installer.test.ts
+  h_05f32768e190e9 2,76-105
+dt-skill/src/cli/installer.ts
+  h_05f32768e190e9 131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fcdbf8026a7aad9d5f1b2e1cc62403f420c194fb",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}
