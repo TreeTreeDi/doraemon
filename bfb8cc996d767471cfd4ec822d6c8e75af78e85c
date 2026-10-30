@@ -1,0 +1,23 @@
+test/skills-storage-ready-middleware.test.js
+  s_196ae70d1810c5::t_061c9b4dbfbb5f 1-41
+app/router.js
+  s_196ae70d1810c5::t_6903a97816b988 168-169,171-187
+app/middleware/skillsStorageReady.js
+  s_196ae70d1810c5::t_899e666c21041a 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "bfb8cc996d767471cfd4ec822d6c8e75af78e85c",
+  "prompts": {},
+  "sessions": {
+    "s_196ae70d1810c5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fd82f0e-6b8c-4f12-bd8b-25f76e3d0383",
+        "model": "composer-2.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+app/web/pages/skills/detail/components/SkillDetailHero.tsx
+  s_196ae70d1810c5::t_7686b546190657 1-9,11-68,70-123
+  s_196ae70d1810c5::t_6110ef59c412cb 10
+  s_196ae70d1810c5::t_5d0f1b959c06bc 69
+app/web/pages/skills/detail/components/SkillFileExplorer.tsx
+  s_196ae70d1810c5::t_4d34a96e5ab129 10
+  s_196ae70d1810c5::t_37cfd780ee1eb9 1-9,11-91,93-137
+  s_196ae70d1810c5::t_0b40e24a2157b2 92
+app/web/pages/skills/detail/components/SkillDocViewer.tsx
+  s_196ae70d1810c5::t_6ac0a33eec6154 86
+  s_196ae70d1810c5::t_8fb06c10e025fa 1-9,11-85,87-112
+  s_196ae70d1810c5::t_6f2fb259fde612 10
+app/web/pages/skills/detail/utils/skillDetailUtils.ts
+  s_196ae70d1810c5::t_47221e5bc33546 1-156
+app/web/pages/skills/detail/style.scss
+  s_196ae70d1810c5::t_379d6181f677c2 10
+app/web/pages/skills/detail/SkillDetailContent.tsx
+  s_196ae70d1810c5::t_2f865d59a60a89 2,6-15,21,88,260-261,264-299,302-316
+app/web/pages/skills/detail/components/SkillInstallPanel.tsx
+  s_196ae70d1810c5::t_605e35af64b5e1 1-20,22-53,55-77,79-120,122-129,131-167,169-174,176-218,220-228,230-252,254-276,278-305
+  s_196ae70d1810c5::t_314683b71b6391 54,78,121,130,168,175,219,229,253,277
+  s_196ae70d1810c5::t_a29f533e93d39d 21
+app/web/pages/skills/detail/components/DetailIcon.tsx
+  s_196ae70d1810c5::t_5e02687e77dcb6 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "32f03cdf4838a695f8e96b074fde6100168f32a8",
+  "prompts": {},
+  "sessions": {
+    "s_196ae70d1810c5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fd82f0e-6b8c-4f12-bd8b-25f76e3d0383",
+        "model": "composer-2.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}

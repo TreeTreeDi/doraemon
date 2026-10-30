@@ -1,0 +1,63 @@
+dt-skill/.gitignore
+  s_b694dae090ad2e::t_fc3ef95bae3ade 6
+dt-skill/src/schema/schemas.test.ts
+  s_890fe66932204b::t_845bf509ed634a 6
+  s_890fe66932204b::t_e31550ce3ab551 54-84
+dt-skill/src/cli/installerPipeline.ts
+  s_890fe66932204b::t_cec81d564b068d 1-79
+dt-skill/src/schema/schemas.ts
+  s_890fe66932204b::t_974cccc3b2624c 219
+  s_890fe66932204b::t_7f14ce7e145913 46-54
+dt-skill/src/cli/commands/skills.ts
+  s_890fe66932204b::t_a96e489742c96f 500
+  s_890fe66932204b::t_d5d3293aa747e9 667
+  s_b694dae090ad2e::t_3c7541b63c2106 34
+  s_890fe66932204b::t_1b938f3af1d46b 543,545,550,558
+  s_890fe66932204b::t_4ae11c5257301d 308,310,314,321,338
+  s_890fe66932204b::t_2845fb88940cdd 598
+  s_890fe66932204b::t_19f1ffa689b2b8 627
+  s_890fe66932204b::t_f085f0dc8098e8 27-33
+  s_890fe66932204b::t_1e7374cbc99fc7 41
+  s_890fe66932204b::t_3c2a5128d175d1 928-929
+  s_b694dae090ad2e::t_09c36d60c2ba05 155
+  s_b694dae090ad2e::t_1bfaa7126e2487 75,81,109-110,475,489,491-499
+  s_b694dae090ad2e::t_c2590c448469e2 105,614,616,619-621,623-626,644,656,659-661,663-666
+dt-skill/src/cli/installer.ts
+  s_b694dae090ad2e::t_9c0dc254083876 4,7
+  s_b694dae090ad2e::t_acf1e7185a93bc 102-105,109-110
+dt-skill/src/lockfile.ts
+  s_890fe66932204b::t_90bf9c591dce1d 1-50
+dt-skill/src/lockfile.test.ts
+  s_890fe66932204b::t_e15c45164edcb3 1-73
+dt-skill/src/cli/commands/skills.test.ts
+  s_890fe66932204b::t_accdfbb2bd3a94 60,62
+  s_890fe66932204b::t_a07bb66b254ab9 14
+  s_890fe66932204b::t_4bba33bc537cc7 89
+dt-skill/src/cli/commands/skills.install.test.ts
+  s_890fe66932204b::t_4f1bab6016c851 12
+  s_890fe66932204b::t_30f7bc5e461640 77,79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "409d701cccf38bf2e811911cd235fdd2b031ba69",
+  "prompts": {},
+  "sessions": {
+    "s_890fe66932204b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "783a0a08-abae-4e92-acf0-4060890f7515",
+        "model": "glm-5.2"
+      },
+      "human_author": null
+    },
+    "s_b694dae090ad2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e02d9f2c-6907-4f4b-9114-171faec66aed",
+        "model": "glm-5.2"
+      },
+      "human_author": null
+    }
+  }
+}

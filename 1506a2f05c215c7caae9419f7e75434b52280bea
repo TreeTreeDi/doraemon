@@ -1,0 +1,30 @@
+app/service/skills.js
+  h_05f32768e190e9 13-18,195-196,202,277-278,338-342,458-459
+app/service/skillsRegistry.js
+  h_05f32768e190e9 7,112-113,169-170,221-222,229-231,233
+app/utils/skill-stats.js
+  h_05f32768e190e9 1-54
+app/web/components/skills/SkillCard.tsx
+  h_05f32768e190e9 74,77
+app/web/pages/skills/detail/SkillSummaryModalContent.tsx
+  h_05f32768e190e9 207
+app/web/pages/skills/detail/components/SkillDetailHero.tsx
+  h_05f32768e190e9 40
+app/web/pages/skills/index.tsx
+  h_05f32768e190e9 57-61
+docs/docsify/zh-cn/guide/dt-skill.md
+  h_05f32768e190e9 5
+dt-skill/src/cli/ui.ts
+  h_05f32768e190e9 184-196,198-199,205-226,231,234-235
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "1506a2f05c215c7caae9419f7e75434b52280bea",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}

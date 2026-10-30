@@ -1,0 +1,34 @@
+app/model/skills_item.js
+  h_05f32768e190e9 41-46
+app/service/skills.js
+  h_05f32768e190e9 15,130,157-169,259-262,308,472-486,491-492,2097,2266-2269,2335-2338
+app/service/skillsRegistry.js
+  h_05f32768e190e9 629
+app/utils/skill-utils.js
+  h_05f32768e190e9 135-182,185-187
+app/web/pages/skills/detail/SkillDetailContent.tsx
+  h_05f32768e190e9 271-272
+app/web/pages/skills/detail/components/SkillFileExplorer.tsx
+  h_05f32768e190e9 3,8,12-19,21-22,38,70-72
+app/web/pages/skills/types.ts
+  h_05f32768e190e9 28-29,33-34
+sql/doraemon.sql
+  h_05f32768e190e9 336
+test/skill-display-version.test.js
+  h_05f32768e190e9 1-59
+test/skills-install-key.test.js
+  h_05f32768e190e9 252,925,1019
+test/skills-package-stars.test.js
+  h_05f32768e190e9 218
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3ed54ba0c3b25abba37a7e881d7a1d6485ece323",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}

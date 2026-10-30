@@ -1,0 +1,14 @@
+app/web/pages/skills/detail/utils/skillDetailUtils.ts
+  h_05f32768e190e9 2,152-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "5e0f35ec30e8ad9095218a0f492f16f0f485e429",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}

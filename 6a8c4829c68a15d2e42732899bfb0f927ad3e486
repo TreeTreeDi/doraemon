@@ -1,0 +1,24 @@
+app/web/pages/skills/index.tsx
+  h_05f32768e190e9 30,32,310-315,325-334
+app/web/pages/skills/style.scss
+  h_05f32768e190e9 76-88
+docs/docsify/_sidebar.md
+  h_05f32768e190e9 18
+docs/docsify/zh-cn/_sidebar.md
+  h_05f32768e190e9 18
+docs/docsify/zh-cn/guide/dt-skill.md
+  h_05f32768e190e9 1-162
+env.json
+  h_05f32768e190e9 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "6a8c4829c68a15d2e42732899bfb0f927ad3e486",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+app/controller/skillsRegistry.js
+  h_05f32768e190e9 90-91
+app/service/skillsRegistry.js
+  h_05f32768e190e9 378,380,708
+app/web/components/skills/SkillCard.tsx
+  h_05f32768e190e9 74,77
+app/web/pages/skills/detail/SkillSummaryModalContent.tsx
+  h_05f32768e190e9 207
+app/web/pages/skills/detail/components/SkillDetailHero.tsx
+  h_05f32768e190e9 40
+dt-skill/src/cli/commands/skills.test.ts
+  h_05f32768e190e9 15-16,51-52,371
+test/skills-registry-contract.test.js
+  h_05f32768e190e9 531,573
+test/skills-registry-integration.test.js
+  h_05f32768e190e9 46-48,94,98-102,105-107,118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "c5fa0e015cc83abdbe60f0ace514e14b44f0815d",
+  "prompts": {},
+  "humans": {
+    "h_05f32768e190e9": {
+      "author": "huaiju <huaiju1210085279@gmail.com>"
+    }
+  }
+}

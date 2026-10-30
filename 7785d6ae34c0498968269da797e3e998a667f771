@@ -1,0 +1,38 @@
+dt-skill/src/cli/commands/publish.ts
+  s_7c870fe2413070::t_6415dcd974347f 46
+  s_7c870fe2413070::t_10b1a4b857f61a 38
+dt-skill/src/cli/scanSkills.test.ts
+  s_7c870fe2413070::t_ce55de23686ee4 7
+  s_7c870fe2413070::t_a3278140d1346b 10
+dt-skill/vitest.config.ts
+  s_7c870fe2413070::t_3cb2717cf3c181 10
+dt-skill/src/cli/commands/publish.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 34
+  s_7c870fe2413070::t_c6935e77cd5758 252
+  s_7c870fe2413070::t_b01a73a587f165 272
+dt-skill/test-artifact/cli.artifact.test.ts
+  s_7c870fe2413070::t_36c79544a391a6 4
+  s_7c870fe2413070::t_a3278140d1346b 47
+dt-skill/src/cli.ts
+  s_7c870fe2413070::t_316b8e358ffb0f 39
+  s_7c870fe2413070::t_657f45d969a395 101,104,107
+  s_7c870fe2413070::t_c54d02c15ddbb2 123
+  s_7c870fe2413070::t_a628d01ad99625 55
+  s_7c870fe2413070::t_e8c33e1b4a638a 118,122,126-127,129-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7785d6ae34c0498968269da797e3e998a667f771",
+  "prompts": {},
+  "sessions": {
+    "s_7c870fe2413070": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "62556df6-46e1-43d9-bdd2-252a39c2989e",
+        "model": "composer-2.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}

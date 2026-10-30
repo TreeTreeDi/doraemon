@@ -1,0 +1,89 @@
+dt-skill/src/skills.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 24,39,58-60,66-67,69,78,81-82,89-90,92,108,116,197,200,202,209,216,241,253,262,277
+  s_7c870fe2413070::t_c37fc789933b20 252,254-255,258
+dt-skill/src/cli/buildInfo.ts
+  s_7c870fe2413070::t_e8be86137128bd 27
+dt-skill/src/skills.ts
+  s_7c870fe2413070::t_8ae136607b0469 116-122
+  s_7c870fe2413070::t_64cac49a8d2d4d 133-140,142-151
+  s_7c870fe2413070::t_535a96558a15c0 22-23
+  s_7c870fe2413070::t_84505f3e437c71 217
+app/router.js
+  s_7c870fe2413070::t_eff5170eba2d2b 166,170-174,178,180-187
+dt-skill/src/config.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 29,39,61
+dt-skill/src/cli/commands/skills.ts
+  s_7c870fe2413070::t_160e2690b7b4e0 664
+  s_7c870fe2413070::t_272a7dd58126b1 403
+  s_7c870fe2413070::t_763ff1b65ef08c 202
+dt-skill/src/schema/textFiles.test.ts
+  s_7c870fe2413070::t_a10b16203ae7a6 7
+test/skills-registry-integration.test.js
+  s_7c870fe2413070::t_cdfc9786c9fdd2 5,9,13,36,44
+dt-skill/src/config.ts
+  s_7c870fe2413070::t_74e1e661a7a4d1 7,17
+dt-skill/src/cli/commands/github.ts
+  s_7c870fe2413070::t_46c5ea444a627f 9
+  s_7c870fe2413070::t_4a1d2e2b540580 93
+dt-skill/test/cliCommandTestKit.ts
+  s_7c870fe2413070::t_a3278140d1346b 9-10,50
+test/skills-registry-contract.test.js
+  s_7c870fe2413070::t_cdfc9786c9fdd2 46,52-53,64,75,105,118,192,241,269,307,320,367,390,415,437,459,475,494,549,557,565,573,595,627,647,672,697,721,740,758,777,792,810-812,815
+dt-skill/src/schema/schemas.test.ts
+  s_7c870fe2413070::t_bc67b2999d800e 7
+dt-skill/src/discovery.ts
+  s_7c870fe2413070::t_ffb02b2716f17e 4-17
+app/service/skillsRegistry.js
+  s_7c870fe2413070::t_58e32a3275bd33 12
+  s_7c870fe2413070::t_4af2c1d9532d1f 613
+  s_7c870fe2413070::t_b7736a021ffbd2 379
+dt-skill/src/http.bun.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 19,114,135,151,161,175,177,184
+dt-skill/src/cli/commands/github.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 12
+app/controller/skillsRegistry.js
+  s_7c870fe2413070::t_794f0a6ebafe12 15,23,31,44,57,71,84,102,132,147,155
+  s_7c870fe2413070::t_c8138ac3f750c0 3-4,7
+  s_7c870fe2413070::t_78bf6a5d2a2ef5 184
+  s_7c870fe2413070::t_bbb75731d7fff6 138
+dt-skill/src/cli/registry.test.ts
+  s_7c870fe2413070::t_d7e344ad10e346 45-46,56-67,79
+dt-skill/src/cli/registry.ts
+  s_7c870fe2413070::t_fa3e92e1d95291 14,34
+config/config.default.js
+  s_7c870fe2413070::t_8fdba3c5db4926 73
+contracts/skill-fingerprint/golden-vectors.v1.json
+  s_7c870fe2413070::t_fac2ad54ad5042 29
+dt-skill/src/cli/commands/skills.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 419,441,446,648,695
+dt-skill/src/http.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 91-92
+dt-skill/package.json
+  s_7c870fe2413070::t_cdf0418bd8c8d8 4-5,7,12-13
+dt-skill/src/cli/ui.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 34,55,60,70
+contracts/skill-fingerprint/index.js
+  s_7c870fe2413070::t_4b06369b80d835 12
+dt-skill/src/cli/commands/skills.install.test.ts
+  s_7c870fe2413070::t_a3278140d1346b 126,131,170,175,274
+dt-skill/src/http.ts
+  s_7c870fe2413070::t_265357966703c0 629
+  s_7c870fe2413070::t_e1b33e5c815b57 18
+  s_7c870fe2413070::t_58af3617fabc24 710
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d69e70416c8094f8c509e8ffa9be7dcfee2cd81d",
+  "prompts": {},
+  "sessions": {
+    "s_7c870fe2413070": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "62556df6-46e1-43d9-bdd2-252a39c2989e",
+        "model": "composer-2.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}

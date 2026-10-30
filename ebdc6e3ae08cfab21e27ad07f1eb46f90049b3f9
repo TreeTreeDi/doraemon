@@ -1,0 +1,21 @@
+app/service/skills.js
+  s_57926930857df2::t_452ff1bdc74b57 603
+test/skills-import-package-name.test.js
+  s_57926930857df2::t_8b13141e391783 14-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ebdc6e3ae08cfab21e27ad07f1eb46f90049b3f9",
+  "prompts": {},
+  "sessions": {
+    "s_57926930857df2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec654-8b7a-78f2-bced-f3f098e55088",
+        "model": "gpt-5.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}

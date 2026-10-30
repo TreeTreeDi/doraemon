@@ -1,0 +1,119 @@
+dt-skill/src/cli/commands/inspect.test.ts
+  s_fcb00a6cae32ab::t_df63284dbdde7b 168-175
+app/web/components/skills/SkillCard.tsx
+  s_fcb00a6cae32ab::t_7b6f9a35ddcff3 2-3
+dt-skill/README.md
+  s_fcb00a6cae32ab::t_7fd7cdd372a298 159-162
+dt-skill/src/cli/registry.ts
+  s_fcb00a6cae32ab::t_edf6ce4238e930 5-43
+contracts/skill-fingerprint/index.js
+  s_196ae70d1810c5::t_a6c31e20da8eaa 105
+  s_196ae70d1810c5::t_5157d9429b1d43 1-104,106-149
+dt-skill/src/cli/commands/sync.ts
+  s_fcb00a6cae32ab::t_5aaaf173bc095b 18-107
+test/clawhub-contract.test.js
+  s_196ae70d1810c5::t_3bc43b651a31ce 673,677-688
+  s_fcb00a6cae32ab::t_2420bd1f5889c9 722,724-727,738-743,745-746
+  s_fcb00a6cae32ab::t_02d1bcbc38a4ce 16,170-294,670-671,674-676,689-693
+  s_fcb00a6cae32ab::t_b30c3e0d075a61 68-69
+  s_196ae70d1810c5::t_fa7ef69880d4b9 3-5
+  s_fcb00a6cae32ab::t_3896df17e3dd55 591-598
+  s_fcb00a6cae32ab::t_fac0452f439941 697,699-702,713-718,720-721,747-771
+  s_196ae70d1810c5::t_2d9d39e018ca8c 672,694,698,703-712,719,723,728-737,744
+contracts/skill-fingerprint/golden-vectors.v1.json
+  s_196ae70d1810c5::t_ed27973acd250f 21
+  s_196ae70d1810c5::t_99f0622f2b3c98 1-20,22-40
+app/controller/clawhub.js
+  s_fcb00a6cae32ab::t_723279c79e62ca 7
+test/clawhub-integration.test.js
+  s_fcb00a6cae32ab::t_7dea5c5a4d45e7 17-60
+dt-skill/src/schema/skillFingerprintContract.test.ts
+  s_196ae70d1810c5::t_6f854ae0e1ffe3 7,11
+  s_196ae70d1810c5::t_f4efc60163ecb0 1-6,8,10,12-36
+  s_196ae70d1810c5::t_ae9fc3f153ba94 9
+test/skill-fingerprint-contract.test.js
+  s_196ae70d1810c5::t_0ddb0db3f50321 1-36
+dt-skill/src/cli/commands/skills.test.ts
+  s_fcb00a6cae32ab::t_90a69fb025df09 157-623
+contracts/skill-fingerprint/index.d.ts
+  s_196ae70d1810c5::t_4e74292bc20f18 1-52
+dt-skill/src/cli/commands/inspect.ts
+  s_fcb00a6cae32ab::t_5aaaf173bc095b 59-124,197-200
+  s_fcb00a6cae32ab::t_df63284dbdde7b 133-153
+dt-skill/src/cli/commands/skills.install.test.ts
+  s_fcb00a6cae32ab::t_02d1bcbc38a4ce 89,212
+  s_fcb00a6cae32ab::t_5aaaf173bc095b 139-185,286
+dt-skill/src/skills.ts
+  s_196ae70d1810c5::t_1233c9044ff3c1 74
+  s_196ae70d1810c5::t_2df0243f273db6 22-26
+  s_196ae70d1810c5::t_106fe2f52e16bf 11-20
+  s_196ae70d1810c5::t_b5b96a1f54d35d 91-98
+dt-skill/src/cli/commands/unstar.ts
+  s_fcb00a6cae32ab::t_849a058e708cc7 28
+app/service/skills.js
+  s_fcb00a6cae32ab::t_723279c79e62ca 600-606
+dt-skill/test-artifact/cli.artifact.test.ts
+  s_fcb00a6cae32ab::t_2d0861f788aeec 22-120
+dt-skill/src/cli/commands/skills.ts
+  s_fcb00a6cae32ab::t_849a058e708cc7 36-1011
+dt-skill/src/cli/commands/syncHelpers.ts
+  s_fcb00a6cae32ab::t_5aaaf173bc095b 149-294
+docs/superpowers/plans/2026-06-08-fingerprint-file-contract.md
+  s_fcb00a6cae32ab::t_fff0478f34583e 1-42
+dt-skill/src/cli.ts
+  s_fcb00a6cae32ab::t_edf6ce4238e930 72
+dt-skill/src/schema/textFiles.ts
+  s_196ae70d1810c5::t_3c95047f561edb 1-18
+test/skills-import-package-name.test.js
+  s_fcb00a6cae32ab::t_41b99eb63b4110 6-134
+dt-skill/src/cli/commands/delete.test.ts
+  s_fcb00a6cae32ab::t_02d1bcbc38a4ce 41-44
+dt-skill/src/schema/skillFingerprintContract.ts
+  s_196ae70d1810c5::t_b926da6fbe6695 29-51
+  s_196ae70d1810c5::t_0b3a231540d428 1-28
+dt-skill/src/cli/commands/publish.ts
+  s_fcb00a6cae32ab::t_849a058e708cc7 127
+dt-skill/src/cli/commands/publish.test.ts
+  s_fcb00a6cae32ab::t_02d1bcbc38a4ce 82-83
+contracts/skill-fingerprint/extensions.json
+  s_196ae70d1810c5::t_f1bed9c0bcd887 1-48
+dt-skill/src/cli/registry.test.ts
+  s_fcb00a6cae32ab::t_0861e9154f1d3a 19
+  s_fcb00a6cae32ab::t_3850a6319986f3 25-41,60,69-76
+  s_fcb00a6cae32ab::t_7fd7cdd372a298 58,62-64
+  s_fcb00a6cae32ab::t_44e83cc2561dd4 42-43,77-90
+app/service/clawhub.js
+  s_fcb00a6cae32ab::t_a17669a903eff6 5,22,478,534-535,537-544,591-600
+  s_196ae70d1810c5::t_4b293f1f39d6f8 480-482
+  s_fcb00a6cae32ab::t_723279c79e62ca 20,380-385
+  s_196ae70d1810c5::t_8b7fbf2c4444a5 536
+  s_196ae70d1810c5::t_89e9be9663c763 7
+  s_fcb00a6cae32ab::t_849a058e708cc7 13-18,30-358,472,512-524,553-587
+  s_fcb00a6cae32ab::t_5b47883917b526 487
+dt-skill/src/cli/commands/star.ts
+  s_fcb00a6cae32ab::t_849a058e708cc7 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "8d95aff92bdc2c9331227ce759801a731babb236",
+  "prompts": {},
+  "sessions": {
+    "s_196ae70d1810c5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fd82f0e-6b8c-4f12-bd8b-25f76e3d0383",
+        "model": "composer-2.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    },
+    "s_fcb00a6cae32ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea484-e5df-7623-8552-4002b5c1b2ec",
+        "model": "gpt-5.5"
+      },
+      "human_author": "huaiju <huaiju@dtstack.com>"
+    }
+  }
+}
